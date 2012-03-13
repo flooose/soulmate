@@ -12,7 +12,7 @@ group :development do
   gem "rcov", ">= 0"
 end
 
-gem 'redis',        "~> 2.1.1"
+gem 'redis',        "~> 2.2.1"
 gem 'multi_json',   "~> 1.1.0"
 gem 'rack-contrib'
 gem 'vegas',        "~> 0.1.8"
