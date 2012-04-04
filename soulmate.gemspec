@@ -59,7 +59,7 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<multi_json>, ["~> 1.0.3"])
       s.add_runtime_dependency(%q<rack-contrib>, [">= 0"])
       s.add_runtime_dependency(%q<vegas>, ["~> 0.1.8"])
-      s.add_runtime_dependency(%q<sinatra>, ["~> 1.2.3"])
+      s.add_runtime_dependency(%q<sinatra>, ["~> 1.3.0"])
       s.add_development_dependency(%q<shoulda>, [">= 0"])
       s.add_development_dependency(%q<bundler>, ["~> 1.0.0"])
       s.add_development_dependency(%q<jeweler>, ["~> 1.5.2"])
